@@ -1,0 +1,34 @@
+.contact {
+  line-height: 7rem;
+}
+.contact_form{
+  width: 660px;
+  margin-left:20px;
+  float: left;
+  font-size: 1.5rem;
+}
+.contact_size {
+  text-align: right;
+  width: 150px;
+}
+td > input, textarea {
+  width: 480px
+}
+.sex {
+  width: 30px
+}
+.btn {
+  height: 30px;
+  width: 100px;
+  background-color: #33CCFF;
+}
+.btn:hover {
+  opacity: 0.6
+}
+
+textarea {
+  vertical-align: middle;
+}
+.btn_wrap {
+  text-align: center;
+}
